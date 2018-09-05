@@ -1,0 +1,27 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['insert-ok']   		= 'Cadastro realizado com sucesso!';
+$config['update-ok']   		= 'Cadastro atualizado com sucesso!';
+$config['delete-ok']   		= 'Cadastro removido com sucesso!';
+$config['insert-con-ok']   	= 'Conteúdo criado com sucesso!';
+$config['update-con-ok']   	= 'Conteúdo atualizado com sucesso!';
+$config['delete-con-ok']   	= 'Conteúdo removido com sucesso!';
+$config['insert-caso-ok']   	= 'Caso criado com sucesso!';
+$config['update-caso-ok']   	= 'Caso atualizado com sucesso!';
+$config['delete-caso-ok']   	= 'Caso removido com sucesso!';
+$config['erro']        		= 'Não foi possível realizar a operação.';
+$config['sucesso']     		= 'Operação realizada com sucesso!';
+$config['login']		= 'Usuário ou senha incorretos!';
+$config['campo-obg']		= 'Preencha todos os campos!';
+$config['mapa-validado']	= 'Mapa validado com sucesso!';
+$config['sem-validacao']	= 'Você não possui validações!';
+$config['sem-relatorio']	= 'Esse Mapa de Aprendizagem não possui relatórios!';
+$config['duplicate']            = 'Já existe um usuário criado com o email fornecido!';
+$config['confirm-ok']           = 'Cadastro realizado com sucesso! Foi enviado um email para confirmação da sua conta!';
+$config['cad-confirm']          = 'Cadastro confirmado com sucesso! Agora basta realizar login!';
+$config['erro-uso']             = 'O caso já está sendo utilizado por você!';
+$config['ok-uso']               = 'O caso selecionado foi adicionado na sua lista de usos!';
+$config['rec-senha']            = 'Foi enviado um email para recuperação de sua senha!';
+$config['senha-alt']            = 'Sua senha foi alterada com sucesso!';
+$config['senha-dif']            = 'As senhas digitadas são diferentes!';
+$config['ap-caso']              = 'Este caso está sendo usado por outro usuário. Não pode ser apagado!';
